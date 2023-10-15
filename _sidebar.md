@@ -1,2 +1,2 @@
-- [悟空的 悟 + 空 之旅](README)
+- [悟 + 空 之旅](README)
 - [Example Second Page](second-page)
