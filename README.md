@@ -5,7 +5,7 @@
 
 ## 文字作品
 
-> * ### [Python自学手册](/PythonHandbook/)  
+> * ### [Python自学手册](/SilkRoad/silkroad.github.io/PythonHandbook/)  
 非科班技术人员自学走向专业技术人员的参考手册。
 
 > * ### 我的社会经济观察与思考
@@ -13,7 +13,7 @@
 
 ## 动动手
 
-> * ### [树莓派家庭游戏机](/RaspberryPi-FC/)
+> * ### [树莓派家庭游戏机](/SilkRoad/silkroad.github.io/RaspberryPi-FC/)
 
 > * ### [基于树莓派Pico微控制器的可编程游戏机](/Pico/)
 
