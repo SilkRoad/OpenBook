@@ -1,3 +1,3 @@
 - [首页](/)
 - [悟 + 空 之旅](README)
-- [Example Second Page](second-page)
+- [关于](about)
