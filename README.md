@@ -14,8 +14,8 @@
 > * ### [树莓派家庭游戏机](/RaspberryPi-FC/)
 
 > * ### [基于树莓派Pico微控制器的可编程游戏机](/Pico/)
-> *  #### [俄罗斯方块](/Pico/PicoZeroTetris)
-> *  #### [贪吃蛇](/Pico/PicoZeroSnake)
+>   * #### [俄罗斯方块](/Pico/PicoZeroTetris)
+>   * #### [贪吃蛇](/Pico/PicoZeroSnake)
 
 > * ### [Scratch编程](/scratch/)
 
