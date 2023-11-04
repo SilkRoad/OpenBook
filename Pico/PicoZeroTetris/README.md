@@ -12,7 +12,7 @@
 - 此时电脑会将PicoZero识别为存储器
 - 松开ROOT按键
 - [下载](https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2)并上传固件至PicoZero
-- 将[PicoGameBoy.py、st7789.py、tetris_title.bin和tetris.py](https://github.com/SilkRoad/silkroad.github.io/tree/main/Pico/PicoZeroTetris)四个文件复制到PicoZero的根目录
+- 将[PicoGameBoy.py、st7789.py、tetris_title.bin和tetris.py](https://github.com/SilkRoad/Pico/tree/main/PicoZeroTetris)四个文件复制到PicoZero的根目录
 - 按照下面的电路图连接元器件
 
 ![DIAGRAM](https://github.com/SilkRoad/Pico/blob/main/PicoZeroTetris/images/CircuitDiagram.png?raw=true)
